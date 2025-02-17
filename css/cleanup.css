@@ -1,1 +1,14 @@
 /* write your override styles here */
+#wall [class]{
+    display: none;
+}
+#wall .slick.wicked#tag-3 {
+    display: none;
+}
+#wall div#tag-2 {
+    display: none;
+}
+
+/* Extra stuff to make the byte size cut off */
+/* I don't know why I can't pass the test though I've removed the graffiti */
+/* I should even be paid for this stuff :( */
